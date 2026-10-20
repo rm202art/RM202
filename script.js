@@ -58,6 +58,14 @@ if (REGISTRATION_URL) {
   document.getElementById('lb-prev').onclick=()=>step(-1);
   document.getElementById('lb-next').onclick=()=>step(1);
   lb.addEventListener('click',e=>{ if(e.target===lb) close(); });
+  // swipe between photos on touch screens
+  let sx=null, sy=null;
+  lb.addEventListener('touchstart',e=>{ sx=e.touches[0].clientX; sy=e.touches[0].clientY; },{passive:true});
+  lb.addEventListener('touchend',e=>{
+    if(sx===null) return;
+    const dx=e.changedTouches[0].clientX-sx, dy=e.changedTouches[0].clientY-sy; sx=null;
+    if(Math.abs(dx)>50 && Math.abs(dx)>Math.abs(dy)) step(dx<0?1:-1);
+  });
   document.addEventListener('keydown',e=>{
     if(lb.hidden) return;
     if(e.key==='Escape') close(); else if(e.key==='ArrowLeft') step(-1); else if(e.key==='ArrowRight') step(1);
@@ -501,4 +509,15 @@ if (REGISTRATION_URL) {
 
   resize();
   schedule();
+})();
+
+// Phones: a register bar pinned to the bottom, hidden while the hero or the
+// Registration block (which have their own buttons) are on screen.
+(function(){
+  const bar=document.getElementById('stickyCta'), hero=document.querySelector('.hero'), reg=document.getElementById('register');
+  if(!bar||!hero||!reg||!('IntersectionObserver' in window)) return;
+  let heroOn=true, regOn=false;
+  const sync=()=>bar.classList.toggle('is-visible',!heroOn&&!regOn);
+  new IntersectionObserver(es=>{heroOn=es[0].isIntersecting;sync();},{threshold:0}).observe(hero);
+  new IntersectionObserver(es=>{regOn=es[0].isIntersecting;sync();},{threshold:0}).observe(reg);
 })();

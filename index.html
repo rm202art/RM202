@@ -10,7 +10,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600&family=Permanent+Marker&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="styles.css?v=20261021b">
 </head>
 <body>
 
@@ -38,6 +38,10 @@
     <a class="nav-cta" data-cta="register" href="#register">Register</a>
   </nav>
 </header>
+<!-- phones: the header links collapse, so sections live in a scrollable strip -->
+<nav class="subnav" aria-label="Sections">
+  <a href="#next">Next session</a><a href="#about">About</a><a href="#archive">Archive</a><a href="#gallery">Photos</a><a href="#hire">Hire us</a>
+</nav>
 
 <main>
   <section class="hero">
@@ -139,7 +143,7 @@
           <tr><th>Session</th><th>Event type</th><th>Where</th><th>Date</th></tr>
         </thead>
         <tbody>
-          <tr><td><a href="#gallery">Life Painting Session ↓</a></td><td>Long pose session · with Maki</td><td>Makati</td><td>17 Oct 2026</td></tr>
+          <tr><td data-label="Session"><a href="#gallery">Life Painting Session ↓</a></td><td data-label="Event type">Long pose session · with Maki</td><td data-label="Where">Makati</td><td data-label="Date">17 Oct 2026</td></tr>
         </tbody>
       </table>
     </div>
@@ -197,6 +201,8 @@
   </div>
 </footer>
 
+<a class="sticky-cta" id="stickyCta" data-cta="register" href="#register">Register · Sat 24 Oct →</a>
+
 <div class="lightbox" id="lightbox" hidden>
   <button class="lb-close" id="lb-close" aria-label="Close">×</button>
   <button class="lb-nav lb-prev" id="lb-prev" aria-label="Previous">‹</button>
@@ -205,6 +211,6 @@
   <p class="lb-cap" id="lb-cap"></p>
 </div>
 
-<script src="script.js"></script>
+<script src="script.js?v=20261021b"></script>
 </body>
 </html>
