@@ -1,0 +1,586 @@
+[
+{
+"id": "202207_iphone_IMG_1305",
+"n": 3,
+"section": "Arrival & setup",
+"w": 1200,
+"h": 1600,
+"model": true
+},
+{
+"id": "202224_sony_RTM04979",
+"n": 5,
+"section": "Arrival & setup",
+"w": 1066,
+"h": 1600,
+"model": true
+},
+{
+"id": "202232_sony_RTM04981",
+"n": 6,
+"section": "Arrival & setup",
+"w": 1066,
+"h": 1600,
+"model": false
+},
+{
+"id": "203026_sony_RTM04984",
+"n": 7,
+"section": "Session 1 - solo poses",
+"w": 1066,
+"h": 1600,
+"model": true
+},
+{
+"id": "203038_iphone_IMG_1309",
+"n": 9,
+"section": "Session 1 - solo poses",
+"w": 1600,
+"h": 1200,
+"model": true
+},
+{
+"id": "203059_sony_RTM04988",
+"n": 10,
+"section": "Session 1 - solo poses",
+"w": 1066,
+"h": 1600,
+"model": true
+},
+{
+"id": "203330_sony_RTM05003",
+"n": 29,
+"section": "Session 1 - solo poses",
+"w": 1066,
+"h": 1600,
+"model": false
+},
+{
+"id": "203520_sony_RTM05005",
+"n": 30,
+"section": "Session 1 - solo poses",
+"w": 1600,
+"h": 1066,
+"model": true
+},
+{
+"id": "203624_iphone_IMG_1322",
+"n": 35,
+"section": "Session 1 - solo poses",
+"w": 1200,
+"h": 1600,
+"model": true
+},
+{
+"id": "203816_iphone_IMG_1327",
+"n": 38,
+"section": "Session 1 - solo poses",
+"w": 1600,
+"h": 1200,
+"model": true
+},
+{
+"id": "203920_iphone_IMG_1329",
+"n": 44,
+"section": "Session 1 - solo poses",
+"w": 1200,
+"h": 1600,
+"model": true
+},
+{
+"id": "203932_sony_RTM05033",
+"n": 50,
+"section": "Session 1 - solo poses",
+"w": 1066,
+"h": 1600,
+"model": true
+},
+{
+"id": "204009_iphone_IMG_1333",
+"n": 53,
+"section": "Session 1 - solo poses",
+"w": 1200,
+"h": 1600,
+"model": false
+},
+{
+"id": "204215_sony_RTM05037",
+"n": 56,
+"section": "Session 1 - solo poses",
+"w": 1066,
+"h": 1600,
+"model": true
+},
+{
+"id": "204240_sony_RTM05039",
+"n": 57,
+"section": "Session 1 - solo poses",
+"w": 1066,
+"h": 1600,
+"model": false
+},
+{
+"id": "204243_iphone_IMG_1337",
+"n": 58,
+"section": "Session 1 - solo poses",
+"w": 1200,
+"h": 1600,
+"model": true
+},
+{
+"id": "204611_sony_RTM05057",
+"n": 73,
+"section": "Session 1 - solo poses",
+"w": 1066,
+"h": 1600,
+"model": true
+},
+{
+"id": "204621_sony_RTM05062",
+"n": 76,
+"section": "Session 1 - solo poses",
+"w": 1066,
+"h": 1600,
+"model": true
+},
+{
+"id": "204711_sony_RTM05069",
+"n": 81,
+"section": "Session 1 - solo poses",
+"w": 1600,
+"h": 1066,
+"model": true
+},
+{
+"id": "204853_sony_RTM05089",
+"n": 99,
+"section": "Session 1 - solo poses",
+"w": 1066,
+"h": 1600,
+"model": true
+},
+{
+"id": "204926_sony_RTM05094",
+"n": 102,
+"section": "Session 1 - solo poses",
+"w": 1066,
+"h": 1600,
+"model": true
+},
+{
+"id": "204937_iphone_IMG_1365",
+"n": 105,
+"section": "Session 1 - solo poses",
+"w": 1200,
+"h": 1600,
+"model": true
+},
+{
+"id": "205058_sony_RTM05105",
+"n": 114,
+"section": "Session 1 - solo poses",
+"w": 1066,
+"h": 1600,
+"model": true
+},
+{
+"id": "205117_iphone_IMG_1375",
+"n": 116,
+"section": "Session 1 - solo poses",
+"w": 1200,
+"h": 1600,
+"model": true
+},
+{
+"id": "205430_sony_RTM05108",
+"n": 122,
+"section": "Session 2 - duo pose",
+"w": 1600,
+"h": 1066,
+"model": true
+},
+{
+"id": "205435_iphone_IMG_1387",
+"n": 123,
+"section": "Session 2 - duo pose",
+"w": 1200,
+"h": 1600,
+"model": true
+},
+{
+"id": "205515_sony_RTM05111",
+"n": 126,
+"section": "Session 2 - duo pose",
+"w": 1066,
+"h": 1600,
+"model": false
+},
+{
+"id": "205614_iphone_IMG_1401",
+"n": 133,
+"section": "Session 2 - duo pose",
+"w": 1200,
+"h": 1600,
+"model": true
+},
+{
+"id": "210124_sony_RTM05115",
+"n": 134,
+"section": "Session 2 - duo pose",
+"w": 1066,
+"h": 1600,
+"model": true
+},
+{
+"id": "210153_iphone_IMG_1405",
+"n": 136,
+"section": "Session 2 - duo pose",
+"w": 1200,
+"h": 1600,
+"model": true
+},
+{
+"id": "210748_sony_RTM05117",
+"n": 137,
+"section": "Session 3 - sofa",
+"w": 1600,
+"h": 1066,
+"model": true
+},
+{
+"id": "210850_sony_RTM05124",
+"n": 143,
+"section": "Session 3 - sofa",
+"w": 1066,
+"h": 1600,
+"model": true
+},
+{
+"id": "211009_iphone_IMG_1413",
+"n": 148,
+"section": "Session 3 - sofa",
+"w": 1200,
+"h": 1600,
+"model": true
+},
+{
+"id": "211036_iphone_IMG_1419",
+"n": 156,
+"section": "Session 3 - sofa",
+"w": 1600,
+"h": 1200,
+"model": true
+},
+{
+"id": "211106_sony_RTM05143",
+"n": 162,
+"section": "Session 3 - sofa",
+"w": 1066,
+"h": 1600,
+"model": true
+},
+{
+"id": "211125_sony_RTM05144",
+"n": 163,
+"section": "Session 3 - sofa",
+"w": 1066,
+"h": 1600,
+"model": false
+},
+{
+"id": "211257_iphone_IMG_1429",
+"n": 174,
+"section": "Session 3 - sofa",
+"w": 1200,
+"h": 1600,
+"model": true
+},
+{
+"id": "211335_iphone_IMG_1443",
+"n": 183,
+"section": "Session 3 - sofa",
+"w": 1200,
+"h": 1600,
+"model": true
+},
+{
+"id": "211354_iphone_IMG_1451",
+"n": 188,
+"section": "Session 3 - sofa",
+"w": 1200,
+"h": 1600,
+"model": true
+},
+{
+"id": "211359_iphone_IMG_1454",
+"n": 190,
+"section": "Session 3 - sofa",
+"w": 1200,
+"h": 1600,
+"model": true
+},
+{
+"id": "211619_sony_RTM05162",
+"n": 195,
+"section": "Session 3 - sofa",
+"w": 1066,
+"h": 1600,
+"model": true
+},
+{
+"id": "211712_sony_RTM05174",
+"n": 201,
+"section": "Session 3 - sofa",
+"w": 1066,
+"h": 1600,
+"model": false
+},
+{
+"id": "212002_iphone_IMG_1470",
+"n": 208,
+"section": "Session 3 - sofa",
+"w": 1200,
+"h": 1600,
+"model": true
+},
+{
+"id": "212301_iphone_IMG_1477",
+"n": 213,
+"section": "Session 3 - sofa",
+"w": 1200,
+"h": 1600,
+"model": true
+},
+{
+"id": "212839_iphone_IMG_1487",
+"n": 220,
+"section": "Session 3 - sofa",
+"w": 1200,
+"h": 1600,
+"model": true
+},
+{
+"id": "212903_iphone_IMG_1488",
+"n": 221,
+"section": "Session 3 - sofa",
+"w": 1200,
+"h": 1600,
+"model": false
+},
+{
+"id": "213646_iphone_IMG_1505",
+"n": 233,
+"section": "Session 3 - sofa",
+"w": 1200,
+"h": 1600,
+"model": true
+},
+{
+"id": "213843_iphone_IMG_1532",
+"n": 250,
+"section": "Session 3 - sofa",
+"w": 1200,
+"h": 1600,
+"model": true
+},
+{
+"id": "213846_iphone_IMG_1534",
+"n": 252,
+"section": "Session 3 - sofa",
+"w": 1200,
+"h": 1600,
+"model": false
+},
+{
+"id": "213943_iphone_IMG_1555",
+"n": 265,
+"section": "Session 3 - sofa",
+"w": 1200,
+"h": 1600,
+"model": false
+},
+{
+"id": "214049_sony_RTM05198",
+"n": 278,
+"section": "Session 3 - sofa",
+"w": 1066,
+"h": 1600,
+"model": true
+},
+{
+"id": "214051_sony_RTM05199",
+"n": 279,
+"section": "Session 3 - sofa",
+"w": 1066,
+"h": 1600,
+"model": false
+},
+{
+"id": "214104_sony_RTM05202",
+"n": 280,
+"section": "Session 3 - sofa",
+"w": 1066,
+"h": 1600,
+"model": false
+},
+{
+"id": "214123_sony_RTM05209",
+"n": 285,
+"section": "Session 3 - sofa",
+"w": 1066,
+"h": 1600,
+"model": true
+},
+{
+"id": "214137_sony_RTM05217",
+"n": 288,
+"section": "Session 3 - sofa",
+"w": 1066,
+"h": 1600,
+"model": true
+},
+{
+"id": "214156_sony_RTM05229",
+"n": 292,
+"section": "Session 3 - sofa",
+"w": 1066,
+"h": 1600,
+"model": true
+},
+{
+"id": "214200_sony_RTM05233",
+"n": 293,
+"section": "Session 3 - sofa",
+"w": 1066,
+"h": 1600,
+"model": false
+},
+{
+"id": "214211_sony_RTM05239",
+"n": 296,
+"section": "Session 3 - sofa",
+"w": 1600,
+"h": 1066,
+"model": false
+},
+{
+"id": "214233_sony_RTM05243",
+"n": 299,
+"section": "Session 3 - sofa",
+"w": 1066,
+"h": 1600,
+"model": true
+},
+{
+"id": "214316_sony_RTM05252",
+"n": 303,
+"section": "Session 3 - sofa",
+"w": 1066,
+"h": 1600,
+"model": false
+},
+{
+"id": "215922_iphone_IMG_1578",
+"n": 312,
+"section": "Latag & group photo",
+"w": 1600,
+"h": 1200,
+"model": false
+},
+{
+"id": "220001_iphone_IMG_1583",
+"n": 315,
+"section": "Latag & group photo",
+"w": 1600,
+"h": 1200,
+"model": false
+},
+{
+"id": "220027_sony_RTM05258",
+"n": 319,
+"section": "Latag & group photo",
+"w": 1066,
+"h": 1600,
+"model": true
+},
+{
+"id": "220029_sony_RTM05259",
+"n": 320,
+"section": "Latag & group photo",
+"w": 1066,
+"h": 1600,
+"model": true
+},
+{
+"id": "220100_iphone_IMG_1592",
+"n": 323,
+"section": "Latag & group photo",
+"w": 1200,
+"h": 1600,
+"model": true
+},
+{
+"id": "220140_iphone_IMG_1597",
+"n": 327,
+"section": "Latag & group photo",
+"w": 1200,
+"h": 1600,
+"model": true
+},
+{
+"id": "220147_iphone_IMG_1599",
+"n": 328,
+"section": "Latag & group photo",
+"w": 1200,
+"h": 1600,
+"model": true
+},
+{
+"id": "220209_iphone_IMG_1603",
+"n": 332,
+"section": "Latag & group photo",
+"w": 1200,
+"h": 1600,
+"model": false
+},
+{
+"id": "220319_iphone_IMG_1608",
+"n": 336,
+"section": "Latag & group photo",
+"w": 1200,
+"h": 1600,
+"model": true
+},
+{
+"id": "220409_iphone_IMG_1612",
+"n": 339,
+"section": "Latag & group photo",
+"w": 1200,
+"h": 1600,
+"model": true
+},
+{
+"id": "220435_iphone_IMG_1614",
+"n": 341,
+"section": "Latag & group photo",
+"w": 1200,
+"h": 1600,
+"model": true
+},
+{
+"id": "220619_iphone_IMG_1620",
+"n": 344,
+"section": "Latag & group photo",
+"w": 1600,
+"h": 1200,
+"model": true
+},
+{
+"id": "220632_iphone_IMG_1622",
+"n": 345,
+"section": "Latag & group photo",
+"w": 1200,
+"h": 1600,
+"model": true
+}
+]
