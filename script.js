@@ -1,3 +1,12 @@
+// Registration link for the next session: every [data-cta="register"] element points here.
+// Set to null to fall back to the #register block on the page.
+const REGISTRATION_URL = "https://docs.google.com/forms/d/e/1FAIpQLScTt0elP_iOnpxz8ElBGx95eivFZ7lk1aZbZZigX70_-hIyKA/viewform";
+if (REGISTRATION_URL) {
+  document.querySelectorAll('[data-cta="register"]').forEach(el => {
+    el.href = REGISTRATION_URL; el.target = '_blank'; el.rel = 'noopener';
+  });
+}
+
 // 18+ gate: remembered per browser; the page still works if storage is blocked
 (function(){
   const gate=document.getElementById('gate'); let ok=false;
